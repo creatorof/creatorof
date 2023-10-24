@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying **Data Science and Artificial Intelligence**
 
-- 🔭 I’m currently working on **Natural Language Processing Thesis**
+- 🔭 I’m currently working on **Large Language Models for Code Generation**
 
 - 💬 Ask me about **JavaScript, Angular, Flask and React**
 
